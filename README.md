@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anson Benny</h1>
-<h3 align="center">Self Taught Developer & Full Stack Self Learned With a Passion for Coding. Strong MERN & Javascript Skills. Always Eager to Adapt and Take on new Challenges !</h3>
+<h3 align="center">Self Taught Developer & Mern Stack Self Learned With a Passion for Coding. Strong MERN & Javascript Skills. Always Eager to Adapt and Take on new Challenges !</h3>
 
 - 💬 Ask me about **MERN stack, Javascript**
 
