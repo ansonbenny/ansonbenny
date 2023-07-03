@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋, I'm Anson Benny</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Anson Benny, Full Stack Developer with hands-on experience in developing and deploying web applications. Have a proven track record in crafting multiple highly-scalable applications using full stack. Stack Self Learned With a Passion for Coding. Strong MERN & Javascript Skills. I am passionate about providing solutions to users by building accessible products. I'm quietly confident, naturally curious, and perpetually working on improving my development problem at a time. I'm happiest when I'm creating, learning, exploring, and thinking about how to make things better. Always Eager to Adapt and Take on New Challenges!<br><br>- ⚡ My latest projects are available at https://ansonbenny.netlify.app/<br><br>- 📝 I regularly write articles on https://ansonbenny.hashnode.dev/<br><br>- 💬 Ask me about React, NodeJs, JavaScript, ExpressJs, MongoDB, HTML & CSS , SCSS</p>
+<p align="left">Full Stack Developer with hands-on experience in developing and deploying web applications. Have a proven track record in crafting multiple highly-scalable applications using full stack. Stack Self Learned With a Passion for Coding. Strong MERN & Javascript Skills. I am passionate about providing solutions to users by building accessible products. I'm quietly confident, naturally curious, and perpetually working on improving my development problem at a time. I'm happiest when I'm creating, learning, exploring, and thinking about how to make things better. Always Eager to Adapt and Take on New Challenges!<br><br>- ⚡ My latest projects are available at https://ansonbenny.netlify.app/<br><br>- 📝 I regularly write articles on https://ansonbenny.hashnode.dev/<br><br>- 💬 Ask me about React, NodeJs, JavaScript, ExpressJs, MongoDB, HTML & CSS , SCSS</p>
 
 ###
 
@@ -68,12 +68,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ansonbenny&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansonbenny&theme=default&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonbenny&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ansonbenny/ansonbenny/output/snake.svg" alt="Snake animation" />
 
 ###
