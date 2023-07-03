@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anson Benny</h1>
-<h3 align="center">Self Taught Developer & MERN Stack Self Learned With a Passion for Coding. Strong MERN & Javascript Skills. Always Eager to Adapt and Take on new Challenges !</h3>
+<h5 align="center">Full Stack Developer with hands-on experience in developing and deploying web applications. Have a proven track record in crafting multiple highly-scalable applications using full stack. Stack Self Learned With a Passion for Coding. Strong MERN & Javascript Skills. I am passionate about providing solutions to users by building accessible products. I'm quietly confident, naturally curious, and perpetually working on improving my development problem at a time. I'm happiest when I'm creating, learning, exploring, and thinking about how to make things better. Always Eager to Adapt and Take on New Challenges!</h5>
 
 - 💬 Ask me about **MERN stack, Javascript**
 
