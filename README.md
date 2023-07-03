@@ -67,9 +67,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansonbenny&theme=default&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonbenny&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
-</div>
+![Snake animation](https://github.com/ansonbenny/ansonbenny/blob/output/github-contribution-grid-snake.svg)
 
 ###
