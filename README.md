@@ -14,9 +14,6 @@
   <a href="https://www.leetcode.com/ansonbenny" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" height="25" alt="leetcode logo"  />
   </a>
-  <a href="https://ansonbenny.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="25" alt="hashnode logo"  />
-  </a>
 </div>
 
 ###
